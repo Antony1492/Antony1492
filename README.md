@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Antony1492
-- 👀 I’m interested in gain experience as a Java Developer
+- 👀 I’m interested in gain experience as a Java and Python Developer
 - 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to collaborate on new Projects
 - 📫 How to reach me ing.aalfonsoh@gmail.com
